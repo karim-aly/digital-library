@@ -1,6 +1,3 @@
-from whitenoise.django import DjangoWhiteNoise
-application = DjangoWhiteNoise(application)
-
 """
 WSGI config for website project.
 
